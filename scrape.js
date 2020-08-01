@@ -27,7 +27,7 @@ const options = {
   maxResults: 1000, // max results
   optimizeLoad: true, // block images, fonts, stylesheets
   proxy: {
-    enabled: true, // enable http proxy
+    enabled: false, // enable http proxy
     server: "user:pass@zproxy.lum-superproxy.io:22225",
   },
   autoLogin: {
