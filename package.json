@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "csv-writer": "^1.6.0",
+    "dayjs": "^1.8.31",
+    "puppeteer": "^5.2.1",
+    "puppeteer-extra": "^3.1.13",
+    "puppeteer-extra-plugin-stealth": "^2.4.14",
+    "winston": "^3.3.3"
+  }
+}

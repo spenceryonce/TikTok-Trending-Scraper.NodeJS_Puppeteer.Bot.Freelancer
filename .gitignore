@@ -1,0 +1,4 @@
+node_modules/
+logs/
+trending.csv
+yarn.lock
